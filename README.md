@@ -1,4 +1,4 @@
- # Bandomasis puslapisČ 
+ # Bandomasis puslapis
 
-ia kuriamas bandomasis puslapis. Ši paskyra priklauso studentui 1811320 Š
-is puslapis kurimas Vilniaus Universiteto Ekonomikos ir verslo administravimo , → fakultete čvykstanios ∗∗"ųDuomen ėanalizs įvado"∗∗ ųpaskait metu 
+Čia kuriamas bandomasis puslapis. Ši paskyra priklauso studentui 1811320 
+Šis puslapis kurimas Vilniaus Universiteto Ekonomikos ir verslo administravimo fakultete vykstančios "Duomenų analizės įvado" paskaitų metu 
